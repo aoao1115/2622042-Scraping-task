@@ -131,4 +131,4 @@ with open('sitemap.csv', 'w', newline='', encoding='utf-8') as f:
         writer.writerow([url, title])
 
 with open('sitemap.csv', encoding='utf-8') as f:
-    print(f.read())
+    print(f.read()
